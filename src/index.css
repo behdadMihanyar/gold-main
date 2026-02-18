@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Vazirmatn", sans-serif;
+  background-image: url("/src//img/background_img.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
